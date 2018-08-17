@@ -1,0 +1,13 @@
+Welcome to Lambda Notes!
+
+Here is a list of things you will learn at Lambda School:
+
+1) Javascript
+2) NodeJS
+3) React
+4) Redux
+5) Python
+6) C
+7) Django
+8) MongoDB
+9) Express

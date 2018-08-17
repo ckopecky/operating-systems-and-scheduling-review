@@ -1,8 +1,21 @@
 # Operating Systems-and Scheduling Review
 
 * [ ] Name some of the things an Operating System does
+
+    - Manages memory allocation
+    - Creates processes
+    - Schedule the processes (Multilevel Feedback Queue)
+    - intermediary between user and hardware. 
+
+
 * [ ] Name some of the thins a Scheduler does.
+    - schedules the processes
+    - control time sharing
+    - MLFQ is the right balance of fairness, priority, and time
 * [ ] What types of Scheduler are there? Describe them.
+    - MLFQ
+    - Round Robin - Whatever is in the queue has to finish before something else comes in. Most fair of the group. 
+    - Priority Queue takes the same amount of time. 
 
 
 ## practise with C commands
